@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POEx-Inotify2.t
+lib/POEx/Inotify2.pm
